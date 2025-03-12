@@ -197,8 +197,7 @@ namespace voteSphere.Infrastructure.Migrations
                         name: "FK_Votes_AspNetUsers_UserId",
                         column: x => x.UserId,
                         principalTable: "AspNetUsers",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                     table.ForeignKey(
                         name: "FK_Votes_VoteGroups_GroupId",
                         column: x => x.GroupId,

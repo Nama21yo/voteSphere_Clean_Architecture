@@ -12,7 +12,7 @@ using voteSphere.Infrastructure.Database;
 namespace voteSphere.Infrastructure.Migrations
 {
     [DbContext(typeof(VotingContext))]
-    [Migration("20250312131955_InitialCreate")]
+    [Migration("20250312135830_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -354,8 +354,7 @@ namespace voteSphere.Infrastructure.Migrations
 
                     b.HasOne("voteSphere.Domain.Entities.ApplicationUser", "User")
                         .WithMany()
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("UserId");
 
                     b.Navigation("User");
 
