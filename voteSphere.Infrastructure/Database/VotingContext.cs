@@ -18,5 +18,19 @@ namespace voteSphere.Infrastructure.Database {
 
             public DbSet<Vote> Votes {get;set;}
 
+
+            protected override void OnModelCreating(ModelBuilder builder) {
+                base.OnModelCreating(builder);
+                builder.Entity<Vote>()
+                .HasOne(v => v.VoteGroup)
+                .WithMany(vg => vg.Votes)
+                .HasForeignKey(v => v.UserId); 
+
+                builder.Entity<Vote>()
+                .HasOne(v => v.VoteGroup)
+                .WithMany(vg => vg.Votes)
+                .HasForeignKey(v => v.GroupId); 
+            }
+
     }
 }

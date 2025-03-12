@@ -1,0 +1,13 @@
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/bin/Debug/net8.0/voteSphere.Domain.deps.json
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/bin/Debug/net8.0/voteSphere.Domain.dll
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/bin/Debug/net8.0/voteSphere.Domain.pdb
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/voteSphere.Domain.csproj.AssemblyReference.cache
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/voteSphere.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/voteSphere.Domain.AssemblyInfoInputs.cache
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/voteSphere.Domain.AssemblyInfo.cs
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/voteSphere.Domain.csproj.CoreCompileInputs.cache
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/voteSphere.Domain.sourcelink.json
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/voteSphere.Domain.dll
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/refint/voteSphere.Domain.dll
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/voteSphere.Domain.pdb
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Domain/obj/Debug/net8.0/ref/voteSphere.Domain.dll
