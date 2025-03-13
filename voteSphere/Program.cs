@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using voteSphere.Domain.UseCases;
 using voteSphere.Infrastructure.Database;
+using voteSphere.Infrastructure.Implementation;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,8 @@ builder.Services.AddDbContext<VotingContext>(options =>
 
 // Add services to the container
 builder.Services.AddControllersWithViews();
+// dependency injection
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
 

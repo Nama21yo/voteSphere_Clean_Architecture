@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore.Query;
 
 namespace voteSphere.Domain.UseCases {
-    public interface IUnitOfWork
+    // wrapper to commbine all repositories
+    public interface IUnitOfWork : IDisposable
     {
+        IUserRepository Users {get;}
+        IVoteRepository Votes {get;}
+        IVoteGroupRepository VoteGroups {get;}
 
+        Task<int> CompleteAsync();
     }
 }
