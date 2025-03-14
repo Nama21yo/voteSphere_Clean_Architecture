@@ -9,5 +9,8 @@
   <ItemGroup>
     <ProjectReference Include="..\voteSphere.Infrastructure\voteSphere.Infrastructure.csproj" />
   </ItemGroup>
-
+  
+   <ItemGroup>
+    <ProjectReference Include="..\voteSphere.Application\voteSphere.Application.csproj" />
+  </ItemGroup>
 </Project>
