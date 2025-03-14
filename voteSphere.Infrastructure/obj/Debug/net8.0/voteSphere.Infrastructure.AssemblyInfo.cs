@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("voteSphere.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9294f377c38d273d718c70decad815d903d680a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+534bcd5ba721f1a39c48646d16cd49f910c5ab31")]
 [assembly: System.Reflection.AssemblyProductAttribute("voteSphere.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("voteSphere.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
