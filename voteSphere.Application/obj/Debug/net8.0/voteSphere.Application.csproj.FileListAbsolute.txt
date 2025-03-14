@@ -1,0 +1,16 @@
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/bin/Debug/net8.0/voteSphere.Application.deps.json
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/bin/Debug/net8.0/voteSphere.Application.dll
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/bin/Debug/net8.0/voteSphere.Application.pdb
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/bin/Debug/net8.0/voteSphere.Domain.dll
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/bin/Debug/net8.0/voteSphere.Domain.pdb
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.csproj.AssemblyReference.cache
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.AssemblyInfoInputs.cache
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.AssemblyInfo.cs
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.csproj.CoreCompileInputs.cache
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.sourcelink.json
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.csproj.CopyComplete
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.dll
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/refint/voteSphere.Application.dll
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/voteSphere.Application.pdb
+/home/nama21yo/Desktop/vote_sphere/voteSphere.Application/obj/Debug/net8.0/ref/voteSphere.Application.dll
