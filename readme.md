@@ -8,7 +8,7 @@ Clean Architecture is a software design philosophy that emphasizes separation of
 
 ### Key Layers in VoteSphere:
 
-1. **Presentation Layer (voteSphere.Application)**
+1. **Presentation Layer (voteSphere)**
 
    - This is where the application's interface logic resides.
    - It contains **Commands (for writing data)** and **Queries (for reading data)**.
